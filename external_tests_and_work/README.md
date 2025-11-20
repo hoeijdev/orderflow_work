@@ -1,2 +1,3 @@
 # orderflow_work
-novice work on orderflow algo's
+
+Some practice and code I do away from home
